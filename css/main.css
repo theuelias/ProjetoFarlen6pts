@@ -1,0 +1,55 @@
+.canto{
+    margin-top: auto;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: auto;
+}
+
+.fundo{
+    background-color: rgb(134, 9, 114);
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    margin-top: 1em;
+    text-align: center;
+}
+
+.texto{
+    text-align: center;
+    color: black;
+}
+
+.box-login{
+    background-color: #e723e7;
+    margin-top: 2em;
+    height: auto;
+    padding: 2em;
+    border-radius: 1em;
+}
+
+.botoes{
+    text-align: center;
+}
+
+.valorEntrada{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    color: darkcyan;
+}
+
+.valorSaida{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    color: darkred;
+}
+
+.saldo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    color: darkgreen;
+}
